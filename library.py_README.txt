@@ -1,0 +1,3 @@
+Documentation for library.py
+
+This script is not multi-platform.  There are some unix/linux type formatting.  Please run in a *nix environment with "./library.py"
